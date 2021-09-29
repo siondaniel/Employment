@@ -13,7 +13,7 @@ Research and Development:
     • Actively learned about the importance of teamwork during project building
     • Designed and created a user-friendly IOS application to aid with recycling
     • Learned how to integrate machine learning into an app
-  OG Works, Westford, MA, Technical Developer, June 2019- Sept 2019, July 2020- Sept 2020
+  OG Works, Westford, MA, Technical Developer, June 2019- Sept 2019, July 2020 - Sept 2020
     • Developed a web crawler and web driver to automate research and data entry
     • Helped create a website connecting to a DynamoDB AWS database
   OG Works, Westford, MA, Research Assistant, Feb 2019- June 2019 
@@ -28,7 +28,7 @@ Part-Time Work:
     • Restocked shelves with new products and continuously recovered product organization
 
 School Activities: 
-  HAM Radio, University of California, Santa Cruz, Member, 2019- Jan 2020
+  HAM Radio, University of California, Santa Cruz, Member, Sept 2019 - Jan 2020
   • Learned about the rules and regulations regarding HAM radio licenses
   • Discussed how radio technology is used in space and around the planet
   • Experimented with electronics and built a 40M CW Transceiver
@@ -36,7 +36,7 @@ School Activities:
 Volunteer Experience: 
   Henniker Congregational Church, Henniker, NH, Dec 2013- Dec 2017
     • Decorated and sold wreaths for the community of Henniker
-  Westford Youth Basketball Association, Westford, MA, Nov 2016- March 2017 
+  Westford Youth Basketball Association, Westford, MA, Nov 2016 - March 2017 
     •  Managed and coached a middle school basketball team
     •  Taught the basic skills of basketball and teamwork
   
